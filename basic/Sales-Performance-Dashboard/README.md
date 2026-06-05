@@ -1,72 +1,98 @@
-#  Superstore Sales Performance Dashboard
+<div align="center">
+  
+  # Superstore Sales Dashboard
+</div>
 
-A beginner-level Power BI dashboard built using the Superstore Sales dataset to analyze sales performance, customer segments, shipping modes, product trends, and regional performance through interactive visualizations.
+<div align="center">
+
+`Power BI` • `Basics`
+
+*Interactive dashboard analyzing sales, customers, products, and regional performance.*
 
 ---
 
-## Project Objective
+## Objective
 
-The goal of this dashboard is to provide a clear overview of business performance by analyzing:
+The goal of this dashboard is to provide an overview of business performance by analyzing:
 
-- Sales across regions
-- Customer segments
-- Product performance
-- Shipping mode distribution
-- Geographic sales patterns
-- Sales trends over time
+
+| | |
+|:---:|:---:|
+| **Region** | Central · East · South · West |
+| **Segment** | Consumer · Corporate · Home Office |
+| **Product** | Category · Sub-category |
+| **Shipping** | Mode Distribution |
+| **Geography** | State-level Mapping |
+| **Trend** | Monthly · Yearly Sales |
+
+</div>
 
 ---
 
 ## Dashboard Features
-- Regional Sales Analysis
-- Customer Segment Analysis
-- Product Performance Tracking
-- Category Distribution Analysis
-- Shipping Mode Insights
-- Geographic Sales Visualization
-- Sales Trend Analysis
-- Interactive Filters & Slicers
+
+| Feature | Description |
+|---------|-------------|
+| **Regional Sales Analysis** | Compare sales across Central, East, South, and West regions |
+| **Customer Segment Analysis** | Breakdown by Consumer, Corporate, and Home Office segments |
+| **Product Performance** | Identify top and bottom products by sales |
+| **Category Distribution** | Visual share of Technology, Furniture, and Office Supplies |
+| **Shipping Mode Insights** | Analyze preferred shipping methods (Standard, Second, Same Day, etc.) |
+| **Geographic Sales Map** | Interactive U.S. map showing sales by state |
+| **Sales Trend Over Time** | Monthly sales trends with drill-down capability |
+| **Interactive Filters** | Slicers for Category, Region, Segment, and Date range |
 
 ---
 
-
-## 1. Main Dashboard Overview
-
-Provides a complete overview of business performance including KPIs, regional sales, customer segments, product performance, category distribution, shipping analysis, sales trends, and key insights.
-
-<img width="1025" alt="dashboard_main" src="https://github.com/user-attachments/assets/a3bae9f1-240d-4226-b396-ebbbf8bd89ac" />
+## Dashboard Previews
 
 ---
 
-## 2. Technology Category Filter Demo
+<div align="center">
 
+### 01 &nbsp; &nbsp; MAIN DASHBOARD OVERVIEW
 
+<img width="1000" alt="dashboard_main" src="https://github.com/user-attachments/assets/a3bae9f1-240d-4226-b396-ebbbf8bd89ac" />
 
-Demonstrates dashboard interactivity using category filters. All KPIs and visualizations update dynamically when the Technology category is selected.
-
-<img width="1025" alt="demo1" src="https://github.com/user-attachments/assets/86d51484-bb0e-46c7-a03e-08df29554946" />
-
-
+> Provides a complete overview of business performance including KPIs, regional sales, customer segments, product performance, category distribution, shipping analysis, sales trends, and key insights.
 
 ---
 
-## 3. Furniture Category Filter Demo
+<br>
+
+### 02 &nbsp; &nbsp; TECHNOLOGY CATEGORY FILTER DEMO
+
+<img width="1000" alt="demo1" src="https://github.com/user-attachments/assets/86d51484-bb0e-46c7-a03e-08df29554946" />
+
+> Demonstrates dashboard interactivity using category filters. All KPIs and visualizations update dynamically when the Technology category is selected.
+
+---
+
+<br>
+
+### 03 &nbsp; &nbsp; FURNITURE CATEGORY FILTER DEMO
+
+<img width="1000" alt="demo2" src="https://github.com/user-attachments/assets/124dcf65-f3a2-4da3-8471-1e228a305132" />
+
+> Shows how the dashboard responds to Furniture category filtering, enabling focused business analysis and comparison.
 
 
-Shows how the dashboard responds to Furniture category filtering, enabling focused business analysis and comparison.
+</div>
 
-<img width="1025" alt="demo2" src="https://github.com/user-attachments/assets/124dcf65-f3a2-4da3-8471-1e228a305132" />
 
 ---
 
 # Key Insights
 
-- West region generated the highest sales.
-- Technology category contributed the largest share of sales.
-- Consumer segment generated the highest sales.
-- A small number of products contributed significantly to overall revenue.
-- Standard Class shipping accounted for the majority of orders.
+| Insight | Finding |
+|---------|---------|
+| Top Region | **West region** generated the highest sales |
+| Top Product Category | **Technology** contributed the largest revenue share |
+| Top Customer Segment | **Consumer segment** leads in sales volume |
+| Product Concentration | A small number of products drive majority of revenue |
+| Preferred Shipping | **Standard Class** accounts for most orders |
+| Trend | Sales peak during **Q4 holiday season** |
 
 ---
 
-⭐ making my fundamentals solidd!
+> ⭐ *making my fundamentals solid!*
