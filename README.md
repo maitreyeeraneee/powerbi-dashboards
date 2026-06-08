@@ -1,1 +1,3 @@
-# powerbi-dashboards
+# powerbi dashboards
+
+basic, intermediate, advanced
